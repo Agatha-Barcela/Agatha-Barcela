@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Agatha</h1>
+<h1 align="center">👋 Olá, eu sou Ágatha Barcela</h1>
 
 <p align="center">
   💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
