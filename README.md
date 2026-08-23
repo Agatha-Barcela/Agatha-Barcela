@@ -5,10 +5,10 @@
 </p><br><br>
 
 ## 👩🏽 Sobre mim
-
-Desde a adolescência, sou apaixonada por tecnologia e comecei a ter contato com a área através do meu pai, aprendendo a realizar manutenção de celulares, troca de telas e reparos em computadores. Ao longo desse período, adquiri cerca de 4 anos de experiência prática com manutenção de celulares e computadores.
+Desde a adolescência, sou apaixonada por tecnologia e tive minhas primeiras experiências na área com manutenção de celulares e computadores, incluindo troca de telas, reparos e manutenção de equipamentos. Ao longo desse período, adquiri cerca de 4 anos de experiência prática.
 
 Aos 18 anos, decidi seguir profissionalmente na área de TI e ingressei na Universidade de Brasília (UnB), no curso de Ciência da Computação. Atualmente, estou em busca da minha primeira oportunidade de estágio ou posição júnior na área de tecnologia, onde possa colocar meus conhecimentos em prática, adquirir experiência profissional e continuar aprendendo e evoluindo cada vez mais.
+
 ## 🚀 Linguagens 
 [![My Skills](https://skillicons.dev/icons?i=python,c,js,html,css)](https://skillicons.dev)<br><br>
 
