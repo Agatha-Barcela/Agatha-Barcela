@@ -15,4 +15,4 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-agatha.barcelaa%40gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:agatha.barcelaa@gmail.com)
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)[![Linkedin: Agatha Barcela](https://img.shields.io/badge/-Agatha%20Barcela-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agatha-barcela/)
+[![My Skills](https://skillicons.dev/icons?i=linkedinfigma&theme=light)](https://skillicons.dev)[![Linkedin: Agatha Barcela](https://img.shields.io/badge/-Agatha%20Barcela-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agatha-barcela/)
