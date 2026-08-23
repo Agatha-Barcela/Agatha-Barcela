@@ -3,6 +3,7 @@
 <p align="center">
   💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
 </p><br><br>
+
 ## 👩🏽 Sobre mim
 Desde a adolescência, sou apaixonada por tecnologia e tive minhas primeiras experiências na área com manutenção de celulares e computadores, incluindo troca de telas, reparos e manutenção de equipamentos. Ao longo desse período, adquiri cerca de 4 anos de experiência prática.
 
